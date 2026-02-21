@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛 哀 曖",
+  "base_artist": "sabio",
+  "createdAt": "2026-02-21T09:14:18.809291Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛 哀 曖 (feat. 重音テト)",
+      "artist": "sabio",
+      "has_synced": false,
+      "path": "select/pl_01_愛_哀_曖_(feat._重音テト)_sabio.txt"
+    }
+  ]
+}
